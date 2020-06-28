@@ -1,6 +1,6 @@
 {
   "name": "@octolinker/core",
-  "version": "6.2.2",
+  "version": "6.4.0",
   "description": "OctoLinker browser extension core",
   "repository": "https://github.com/octolinker/octolinker/tree/master/packages/core",
   "license": "MIT",
@@ -43,7 +43,7 @@
     "@octolinker/plugin-vim": "1.0.0",
     "@octolinker/user-interface": "1.0.0",
     "github-injection": "^1.0.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.1",
     "lodash.isequal": "^4.5.0",
     "lodash.uniqwith": "^4.5.0"
   }
